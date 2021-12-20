@@ -1,0 +1,50 @@
+/*HEADER*/
+.navbar-brand h1 {
+  font-family: sans-serif;
+  color: deeppink;
+  font-size: 2.0em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .100;
+}
+#header-nav {
+  background-color: aliceblue;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-brand {
+  padding-top: 25px;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+#nav-list a {
+  font-size: 1.3em;
+  color: hotpink;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: darkgray;
+}
+/*END HEADER*/
+
+/*MAIN CONTENT*/
+#menu-title {
+  color: black bold;
+  font-size: 2.2em;
+}
+section {
+  border: 1px solid black;
+  background-color: floralwhite;
+  margin: 10px;
+}
+section p {
+  padding: 10px;
+}
+section h3{
+  font-weight: bold;
+}
+/*END MAIN CONTENT*/
